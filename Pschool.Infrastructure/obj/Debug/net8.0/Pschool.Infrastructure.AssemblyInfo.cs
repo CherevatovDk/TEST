@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pschool.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c01c464c9df6a4c2ad2e0ae0c86214fef466d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aab8e192e6ad952abdd74c4c2c4f1b45cbbcd62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pschool.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pschool.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

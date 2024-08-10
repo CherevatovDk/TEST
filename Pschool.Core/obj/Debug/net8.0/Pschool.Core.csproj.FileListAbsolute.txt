@@ -1,0 +1,16 @@
+/home/user/RiderProjects/Pschool/Pschool.Core/bin/Debug/net8.0/Pschool.Core.deps.json
+/home/user/RiderProjects/Pschool/Pschool.Core/bin/Debug/net8.0/Pschool.Core.dll
+/home/user/RiderProjects/Pschool/Pschool.Core/bin/Debug/net8.0/Pschool.Core.pdb
+/home/user/RiderProjects/Pschool/Pschool.Core/bin/Debug/net8.0/Pschool.Infrastructure.dll
+/home/user/RiderProjects/Pschool/Pschool.Core/bin/Debug/net8.0/Pschool.Infrastructure.pdb
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.csproj.AssemblyReference.cache
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.AssemblyInfoInputs.cache
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.AssemblyInfo.cs
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.sourcelink.json
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool..C23024B1.Up2Date
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.dll
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/refint/Pschool.Core.dll
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/Pschool.Core.pdb
+/home/user/RiderProjects/Pschool/Pschool.Core/obj/Debug/net8.0/ref/Pschool.Core.dll
